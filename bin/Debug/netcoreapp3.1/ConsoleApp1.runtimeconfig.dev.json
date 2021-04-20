@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tanma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tanma\\.nuget\\packages"
+    ]
+  }
+}
